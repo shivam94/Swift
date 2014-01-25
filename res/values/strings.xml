@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Scrapp</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_second">Scrapp</string>
+    <string name="title_activity_page_">Scrapp</string>
+    <string name="title_activity_fullscreen">FullscreenActivity</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="title_activity_splash">Scrapp</string>
+    <string name="title_activity_third">Scrapp</string>
+    <string name="title_activity_new">Scrapp</string>
+    <string name="title_activity_s">Scrapp</string>
+
+</resources>
